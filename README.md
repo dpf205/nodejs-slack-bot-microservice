@@ -11,6 +11,7 @@
 > https://developers.google.com/maps/documentation/timezone/start
 
 ## Local Setup (run three scripts below)
+> nmp install in root, in ../nmb-time, and in ../nmb-weather
 > in root, node bin/run.js
 > node nmb-time/bin/run.js
 > node nmb-weather/bin/run.js
