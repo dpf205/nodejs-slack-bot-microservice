@@ -1,0 +1,22 @@
+{
+    "name": "nodejs-slack-bot-microservice",
+    "private": true,
+    "version": "1.0.0",
+    "description": "nodejs-slack-bot-microservice",
+    "main": "server/service.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "engines": {
+        "node": "6.4.0"
+    },
+    "keywords": [],
+    "author": "Francis",
+    "license": "ISC",
+    "dependencies": {
+        "@slack/client": "^3.14.0",
+        "dotenv": "^4.0.0",
+        "express": "^4.16.1",
+        "superagent": "^3.6.3"
+    }
+}
