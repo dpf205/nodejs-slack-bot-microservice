@@ -16,3 +16,4 @@
 > node nmb-time/bin/run.js
 > node nmb-weather/bin/run.js
 > message to slack bot must contain "nmb", change in handleOnMessage() in ../server/slackClient.js
+> dotenv package is used: require('dotenv') in  ../nmb-time/server/service.js, ../nmb-weather/server/service.js, and ../bin/run.js
